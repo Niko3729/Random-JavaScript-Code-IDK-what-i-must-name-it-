@@ -11,7 +11,7 @@ class karep {
     }
 }
 
-let kareplah = new karep("yuuka", "Pesut Surabaya");
-let smasnug = new karep("kaito", "Autotron");
+let kareplah = new karep("", "");
+let smasnug = new karep("", "");
 kareplah.karepmu();
 smasnug.karepmu();
